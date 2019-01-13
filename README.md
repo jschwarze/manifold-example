@@ -1,14 +1,18 @@
 # Manifold Test Projekt
-## Why
-To play with [Manifold](http://manifold.systems/) and see how it works.
-## What
+## Why?
+To play with [Manifold](http://manifold.systems/) from scratch and see how it works.
+
+For a full feature example, see the official [manifold-sample-project](https://github.com/manifold-systems/manifold-sample-project).
+
+## What?
 Currently, we have 3 examples in that project:
 1. JSON Schema Manifold
 1. Properties Manifold
 1. String Templating
 
 To see, how it could look inside your code, see [MainApp.java](src/main/java/de/grayc/example/manifold/MainApp.java) for examples.
-## How
+
+## How?
 1. Install IntelliJ plugin for Manifold and restart IDE
 1. Create empty maven project
 1. Add manifold dependency:
