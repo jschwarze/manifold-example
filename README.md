@@ -6,7 +6,8 @@ Currently, we have 3 examples in that project:
 1. JSON Schema Manifold
 1. Properties Manifold
 1. String Templating
-To see, how it could be used, see [MainApp.java](src/main/java/de/grayc/example/manifold/MainApp.java) for examples.
+
+To see, how it could look inside your code, see [MainApp.java](src/main/java/de/grayc/example/manifold/MainApp.java) for examples.
 ## How
 1. Install IntelliJ plugin for Manifold and restart IDE
 1. Create empty maven project
