@@ -1,4 +1,4 @@
-# Manifold Test Projekt
+# Manifold Example Project
 ## Why?
 To play with [Manifold](http://manifold.systems/) from scratch and see how it works.
 
